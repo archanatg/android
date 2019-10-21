@@ -12,8 +12,8 @@
   <url>http://www.example.com</url>
 
 <scm>
-  <connection>scm:git:https://github.com/archanatg/prodrepo.git</connection>
-  <developerConnection>scm:git:https://github.com/archanatg/prodrepo.git</developerConnection>
+  <connection>scm:git:https://github.com/archanatg/android.git</connection>
+  <developerConnection>scm:git:https://github.com/archanatg/android.git</developerConnection>
   <tag>HEAD</tag>
   </scm>
 
